@@ -1,7 +1,7 @@
 <!-- LOGO / BANNER -->
 <div align="center">
   <!-- Make sure "owindev.png" (or any image you prefer) is in the same repository folder as this README.md -->
-  <img src="./owindev.png" alt="0winDev / OwinDev logo" width="200" />
+  <img src="./Owin-05.png" alt="0winDev / OwinDev logo" />
 </div>
 
 <!-- TITLE & SUBTITLE -->
