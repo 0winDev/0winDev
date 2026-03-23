@@ -7,7 +7,7 @@
 
 Android Developer | Kotlin & Android Enthusiast
 
-I’m passionate about building **modern Android apps** with smooth UX and clean architecture. Currently exploring **Jetpack Compose**, **Firebase**, and **Kotlin Multiplatform (KMP)** while sharpening my skills in **Android development**.
+I’m passionate about building **modern Android apps** with smooth UX and clean architecture. Currently exploring **Jetpack Compose**, **Firebase** while sharpening my skills in **Android development**.
 
 ---
 
