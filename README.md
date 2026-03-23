@@ -5,7 +5,7 @@
 
 # Hey! I'm 0win 👋
 
-DAM Student | Aspiring Android Developer | Kotlin & Android Enthusiast
+Android Developer | Kotlin & Android Enthusiast
 
 I’m passionate about building **modern Android apps** with smooth UX and clean architecture. Currently exploring **Jetpack Compose**, **Firebase**, and **Kotlin Multiplatform (KMP)** while sharpening my skills in **Android development**.
 
