@@ -1,6 +1,6 @@
 <!-- LOGO / BANNER -->
 <div align="center">
-  <img src="./Owin-05.png" alt="OwinDev Logo" width="150" />
+  <img src="./Owin-05.png" alt="OwinDev Logo" width="350" />
 </div>
 
 # Hey! I'm 0win 👋
