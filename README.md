@@ -14,10 +14,9 @@ I’m passionate about building **modern Android apps** with smooth UX and clean
 ## 💻 Currently Learning
 
 - Advanced **Jetpack Compose** patterns  
-- **Kotlin Multiplatform** for shared code  
 - Modern **app architecture & testing**  
 - **Firebase** integrations and cloud features  
-- Writing clean, maintainable **Kotlin & Java** code  
+- Writing clean, maintainable **Kotlin** code  
 
 ---
 
@@ -25,8 +24,4 @@ I’m passionate about building **modern Android apps** with smooth UX and clean
 
 [LinkedIn](https://www.linkedin.com/in/jairo-rodriguez-blanco/) | [Instagram](https://www.instagram.com/0windev/)
 
----
 
-## ⚡ Fun Fact
-
-I love **turning ideas into apps**, experimenting with new Android features, and sharing knowledge to help others.
